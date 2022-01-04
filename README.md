@@ -1,1 +1,1 @@
-# cometchat--ionic-ui-kit
+# cometchat-ionic-ui-kit
